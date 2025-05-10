@@ -10,12 +10,11 @@ A simple and powerful chat application that integrates **Google's Gemini API** t
 - 📜 Maintains chat history
 
 ## 📸 Screenshots
-
-*(Add screenshots here)*
+![Image](https://github.com/user-attachments/assets/a8f3375d-9b7c-441f-9d13-48fb0b0b87c6)
 
 ## 🔧 Setup Instructions
 
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/gemini-chat-app.git](https://github.com/Kushangkaklotar/AIChat
+git clone https://github.com/your-username/gemini-chat-app.git
