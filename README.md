@@ -6,7 +6,7 @@ A simple and powerful chat application that integrates **Google's Gemini API** t
 
 - 💡 Natural language conversations powered by Gemini
 - 🧠 Handles real-time responses using Google's GenAI SDK
-- 🎨 Clean and minimalistic iOS UIKit
+- 🎨 Clean and minimalistic iOS UI
 - 📜 Maintains chat history
 
 ## 📸 Screenshots
@@ -18,4 +18,4 @@ A simple and powerful chat application that integrates **Google's Gemini API** t
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/gemini-chat-app.git
+git clone https://github.com/Kushangkaklotar/AIChat
