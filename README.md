@@ -10,9 +10,8 @@ A simple and powerful chat application that integrates **Google's Gemini API** t
 - 📜 Maintains chat history
 
 ## 📸 Screenshots
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a8f3375d-9b7c-441f-9d13-48fb0b0b87c6" alt="Light Mode" width="300">
-</p>
+<img src="https://github.com/user-attachments/assets/a8f3375d-9b7c-441f-9d13-48fb0b0b87c6" alt="Light Mode" width="300">
+<img src="https://github.com/user-attachments/assets/8a86c869-b282-4621-9cc0-a223dce6cbc8" alt="Light Mode" width="300">
 
 ## 🔧 Setup Instructions
 
